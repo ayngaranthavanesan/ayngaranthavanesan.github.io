@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the website of Ayngaran Thavanesan, the British and (1st ever?) theoretical cosmologist of Eelam Tamil descent.
+This is the website of Ayngaran Thavanesan, the British and (perhaps 1st-ever?) theoretical cosmologist of Eelam Tamil descent.
 
 Ayngaran is currently a PhD candidate at the University of Cambridge, working on the wavefunction of the universe and the cosmological correlators encoded therein. He is a Institue of Physics Bell Burnell Graduate scholar and Jesus College David and Susan Hibbitt scholar.
 
