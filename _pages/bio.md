@@ -1,8 +1,10 @@
 ---
+layout: archive
 title: "Biography"
-excerpt: "Bio"
-author_profile: true
 permalink: /bio/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 Ayngaran Thavanesan is a theoretical physics PhD candidate based at the University of Cambridge's Kavli Institute for Cosmology, Cambrige, which brings together cosmologists from the Department of Applied Mathematics and Theoretical Physics (DAMTP), Cavendish Astrophysics group and the Institute of Astronomy (IoA). Ayngaran works with a variety of people, including [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260), [Enrico Pajer](https://www.maths.cam.ac.uk/person/ep551), [Anne-Christine Davis](https://www.maths.cam.ac.uk/person/ad107), [Daniel Baumann](http://cosmology.amsterdam/members/daniel-baumann/) and [Guilherme Pimentel](https://www.uva.nl/en/profile/l/e/g.leitepimentel/g.leite-pimentel.html). In 2021 Ayngaran was awarded a [Institue of Physics (IOP) Bell Burnell Graduate scholarship](https://www.iop.org/about/support-grants/bell-burnell-fund/2021-awardees/ayngaran-thavanesan) and the [David and Susan Hibbitt scholarship of Jesus College, Cambridge](https://www.student-funding.cam.ac.uk/jesus-college-david-and-susan-hibbitt-scholarship-202021) for his PhD studies at Cambridge. This is the website of Ayngaran Thavanesan, the British and (perhaps 1st-ever?) theoretical cosmologist of Eelam Tamil descent.
