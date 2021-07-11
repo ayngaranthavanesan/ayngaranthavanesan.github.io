@@ -7,7 +7,7 @@ author_profile: true
 
 *See [here](http://arxiv.org/a/thavanesan_a_1) for an up-to-date list of first-author papers*
 
-Analytical Approximations for curved primordial power spectra
+Analytical approximations for curved primordial power spectra
 -------------------------------------------------------------
 Analytical
 
