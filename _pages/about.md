@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ayngaran Thavanesan"
-excerpt: "This is the home page of Ayngaran Thavanesan, currently PhD candidate at University of Cambridge"
+excerpt: "This is the website of Ayngaran Thavanesan, currently PhD candidate at University of Cambridge"
 author_profile: true
 redirect_from:
   - /about/
