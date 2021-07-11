@@ -4,8 +4,8 @@ title: "Ayngaran Thavanesan"
 excerpt: "Bio"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /bio/
+  - /bio.html
 ---
 
 This is the website of Ayngaran Thavanesan, the British and (perhaps 1st-ever?) theoretical cosmologist of Eelam Tamil descent.
