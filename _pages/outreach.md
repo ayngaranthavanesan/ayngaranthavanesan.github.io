@@ -5,12 +5,26 @@ permalink: /outreach/
 author_profile: true
 ---
 
-*See [here](http://arxiv.org/a/thavanesan_a_1) for an up-to-date list of first-author papers*
-
-Analytical Approximations for curved primordial power spectra
--------------------------------------------------------------
+Cosmology from Home 2021 AMA
+----------------------------
 Analytical
 
-Analytically Approximating the Primordial Power Spectrum in the Kinetic Dominance Paradigm
-------------------------------------------------------------------------------------------
+Cosmology from Home (recap of the first two days)
+-------------------------------------------------
+Analytical
+
+Black Hole Wars: Episode IV
+---------------------------
+Analytical
+
+Black Hole Wars: Episode I
+--------------------------
+Analytical
+
+The topsy-turvy quantum world
+-----------------------------
+Analytical
+
+To Inflation and Beyond!
+------------------------
 Analytical
