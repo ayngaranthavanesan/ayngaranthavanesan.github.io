@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The most recent version of my CV can be found [here](http://ayngaranthavanesan.github.io/files/Academic_CV__Short_.pdf).
+The most recent version of my CV can be found [here](http://ayngaranthavanesan.github.io/files/Academic_CV_Short_September_2024.pdf).
 
 <!-- ---
 layout: archive
