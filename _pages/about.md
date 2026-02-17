@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ayngaran Thavanesan"
+title: "Dr. Ayngaran Thavanesan"
 excerpt: "This is the website of Ayngaran Thavanesan, currently Postdoctoral Research Scientist at EPFL"
 author_profile: true
 author: ayngaran
