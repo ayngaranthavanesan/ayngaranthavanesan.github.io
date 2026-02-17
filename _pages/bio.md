@@ -3,6 +3,7 @@ layout: archive
 title: "Biography"
 permalink: /bio/
 author_profile: true
+author: ayngaran
 ---
 
 I am a theoretical physicist and cosmologist currently working as a Postdoctoral Research Scientist at EPFL (Swiss Federal Technology Institute of Lausanne), and as a scientific collaborator at CERN. I completed my PhD at the University of Cambridge’s Department of Applied Mathematics and Theoretical Physics (DAMTP), where I was supervised by [Aron Wall](http://www.wall.org/~aron/). During my PhD, I was also affiliated with the Kavli Institute for Cosmology, Cambridge (KICC), which brings together cosmologists from DAMTP, the Cavendish Astrophysics group, and the Institute of Astronomy (IoA). I have collaborated with a variety of people, including [David Stefanyszyn](https://www.nottingham.ac.uk/physics/people/david.stefanyszyn), [Will Handley](https://www.willhandley.co.uk/), [Eva Silverstein](https://sitp.stanford.edu/people/eva-silverstein) and [Shota Komatsu](https://www.imperial.ac.uk/theoretical-physics/people/academic-staff/).
