@@ -12,7 +12,7 @@ A key part of my outreach philosophy is promoting **Equality, Diversity, and Inc
 
 _Some of my previous outreach talks can be found below:_
 
-iTelesvope.net Webinar
+iTelescope.net Webinar
 ----------------------
 <iframe 
   width="560" 
