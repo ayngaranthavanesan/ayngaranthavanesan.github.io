@@ -17,7 +17,7 @@ iTelesvope.net Webinar
 <iframe 
   width="560" 
   height="315" 
-  src="https://youtu.be/D4Uyps47KZU" 
+  src="https://youtu.be/embed/D4Uyps47KZU" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -29,7 +29,7 @@ Connecting the Young World Fair 2021
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=-kAdsydUMsw" 
+  src="https://www.youtube.com/embed/-kAdsydUMsw" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -41,7 +41,7 @@ Black Hole Wars: Episode IV
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=jjJw2PP-TfU" 
+  src="https://www.youtube.com/embed/jjJw2PP-TfU" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -53,7 +53,7 @@ Black Hole Wars: Episode I
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=eTHBTeI9cmo" 
+  src="https://www.youtube.com/embed/eTHBTeI9cmo" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -65,7 +65,7 @@ The topsy-turvy quantum world
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=miiox7qWrMs" 
+  src="https://www.youtube.com/embed/miiox7qWrMs" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -77,7 +77,7 @@ To Inflation and Beyond!
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/watch?v=QnyvTZwrEd4" 
+  src="https://www.youtube.com/embed/QnyvTZwrEd4" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
