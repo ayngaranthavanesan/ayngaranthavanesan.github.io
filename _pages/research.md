@@ -27,7 +27,17 @@ Curvature Tension: Is our universe curved or flat?
 --------------------------------------------------
 I am also interested in questions related to the large-scale geometry of the universe, especially in understanding whether spatial curvature is truly zero within observational limits or whether there exist persistent hints of curvature. This includes developing analytical frameworks to treat primordial power spectra in curved backgrounds and assessing theoretical priors for curvature from fundamental physics.
 
+_Recent job talk explaining some of these cool concepts_
 
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/W384jo2HmIg" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 _Summaries of my papers (which are hopefully pedagogical!) can be found below:_
 
@@ -41,7 +51,19 @@ This paper explores how Cauchy Slice Holography — a holographic description wh
 
 [Kosmic Field Theories: Towards Holographic Duals for Unitary String Cosmologies](https://arxiv.org/abs/2510.21701)
 -------------------------------------------------------------------------------------------------------------------
-In this work we proposed a new class of large-$N$ holographic theories, which we call Kosmic Field Theories (KFTs), as potential duals for cosmological spacetimes — including those that arise from string theory. Unlike traditional conformal theories, these allow complex phases in parameters like $N$ and the ’t Hooft coupling in such a way that their correlation functions match the unitarity reality conditions expected of cosmological wavefunctions. Crucially, these phases are not just mathematical artefacts, but are required if the holographic dual is to reproduce physical unitarity in the bulk. This provides a new route to building holographic descriptions of cosmology, where bulk unitarity and reality conditions — central to quantum physics — are respected. 
+In this work we proposed a new class of large-$N$ holographic theories, which we call Kosmic Field Theories (KFTs), as potential duals for cosmological spacetimes — including those that arise from string theory. Unlike traditional conformal theories, these allow complex phases in parameters like $N$ and the ’t Hooft coupling in such a way that their correlation functions match the unitarity reality conditions expected of cosmological wavefunctions. Crucially, these phases are not just mathematical artefacts, but are required if the holographic dual is to reproduce physical unitarity in the bulk. This provides a new route to building holographic descriptions of cosmology, where bulk unitarity and reality conditions — central to quantum physics — are respected.
+
+Recent talk on [arXiv:2510.21701](https://arxiv.org/abs/2510.21701)
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/oO_sZpqJCLA" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 [The Phase of the Cosmological Wavefunction (PhD thesis)](https://doi.org/10.17863/CAM.119586)
 --------------------------------------------------------------------------------------
@@ -51,13 +73,49 @@ My thesis studies how fundamental principles like symmetry, unitarity, and local
 -----------------------------------------------------------------------------------
 This paper uses discrete symmetry constraints — especially those derived from the Cosmological CPT theorem — to show that in even spacetime dimensions, parity-odd cosmological correlators (signals that distinguish left vs right handedness) must vanish if the theory has only massless scalar and even-spin fields and starts in a standard vacuum state. That means many proposed mechanisms for generating parity violation in inflationary observables are forbidden under quite general symmetry plus unitarity assumptions. The result establishes that any detected parity-violating signal in data would be an exceptionally sensitive probe of new physics beyond vanilla inflation. 
 
+Recent talk on [arXiv:2501.06383](https://arxiv.org/abs/2501.06383)
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/RHTF1tWfqEw" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 [The Cosmological CPT Theorem](https://arxiv.org/abs/2408.17406)
 ----------------------------------------------------------------
 In this paper, I (with Harry Goodhew and Aron Wall) extended the classic CPT theorem of quantum field theory (fundamental in particle physics) to cosmological spacetimes. We show that in expanding universes, the combination of unitarity, scale/boost invariance, and discrete transformations leads to a version of CPT that fixes the phase of all cosmological wavefunction coefficients at late times, without needing ad hoc analytic continuations. This is powerful because the phase of the wavefunction controls subtle features like interference and parity, and plays a central role in holographic dualities. Our result provides a non-perturbative symmetry constraint on cosmological observables — a foundational result for both inflationary cosmology and de Sitter holography. 
 
+Recent talk on [arXiv:2408.17406](https://arxiv.org/abs/2408.17406)
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/W7-8bq9va14" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
 [On Graviton non-Gaussianities in the Effective Field Theory of Inflation](https://arxiv.org/abs/2209.00677)
 ------------------------------------------------------------------------------------------
 In this paper with Giovanni Cabass, David Stefanyszyn, and Jakub Supeł, we systematically classify and compute parity-even three-point functions (bispectra) of gravitons within the Effective Field Theory of Inflation framework. We show that all possible cubic interactions that can contribute to graviton non-Gaussianities come from a small set of operators involving extrinsic curvature and its derivatives. By organising these contributions and using efficient tests like the Manifestly Local Test, we extract analytic forms for the bispectra and identify their physical signatures. This work clarifies which inflationary interactions can produce observable gravitational wave non-Gaussianities and helps connect theory with potential future measurements of tensor modes.
+
+Recent talk on [arXiv:2209.00677](https://arxiv.org/abs/2209.00677)
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/O1uojXoKw1U" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 [Analytical approximations for curved primordial power spectra](https://arxiv.org/abs/2009.05573)
 -----------------------------------------------------------------------------------------------------------------------
