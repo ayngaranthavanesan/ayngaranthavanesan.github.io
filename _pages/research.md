@@ -12,7 +12,7 @@ author: ayngaran
 
 Kosmic Field Theories --- Holographic Duals to Cosmological Spacetimes
 ----------------------------------------------------------------------
-I work on developing holographic descriptions of cosmological spacetimes, with a particular focus on understanding quantum gravity in de Sitter space. This includes building frameworks where cosmological observables are computed from lower-dimensional dual theories, analogous to AdS/CFT, and exploring how such dualities encode physically measurable quantities like correlators and the wavefunction of the universe.
+I work on developing holographic descriptions of cosmological spacetimes, with a particular focus on understanding quantum gravity in de Sitter space. This includes building frameworks where cosmological observables are computed from lower-dimensional dual theories, analogous to AdS/CFT, and exploring how such dualities encode physically measurable quantities like correlators and the Wavefunction of the Universe.
 
 Cauchy Slice Holography
 -----------------------
