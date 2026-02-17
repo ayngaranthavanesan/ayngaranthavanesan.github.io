@@ -16,4 +16,4 @@ I completed my Bachelor’s degree at Cambridge’s Institute of Astronomy, befo
 
 I’m broadly interested in quantum gravity and theoretical cosmology, particularly as applied to the Wavefunction of the Universe, though I have additional interests beyond cosmology in a range of fields.
 
-Here you can find more information about my research and outreach activities by clicking on the buttons above. You can also follow me through [Instagram: @ayngs_2508](https://www.instagram.com/ayngs_2508) and [X: @AGNPhysics]((https://x.com/AGNPhysics)). Feel free to also contact him via [email: at735@cantab.ac.uk](mailto:at735@cantab.ac.uk).
+Here you can find more information about my research and outreach activities by clicking on the buttons above. You can also follow me through [Instagram: @ayngs_2508](https://www.instagram.com/ayngs_2508) and [X: @AGNPhysics]((https://x.com/AGNPhysics)). Feel free to [email me](mailto:at735@cantab.ac.uk) with any questions!
