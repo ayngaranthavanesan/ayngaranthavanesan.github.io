@@ -5,117 +5,60 @@ permalink: /teaching/
 author_profile: true
 author: ayngaran
 ---
-*See [iNSPIRE](https://inspirehep.net/authors/2146287?ui-citation-summary=true) or [arXiv](http://arxiv.org/a/thavanesan_a_1) for an up-to-date list of my papers*
 
-_Some current areas of interest are:_
+I am deeply committed to mentoring and teaching across all academic levels — from high school students to advanced graduate courses. I am particularly passionate about supporting students from underrepresented backgrounds and helping them navigate academic pathways in physics, mathematics, and cosmology.
 
-Kosmic Field Theories --- Holographic Duals to Cosmological Spacetimes
-----------------------------------------------------------------------
-I work on developing holographic descriptions of cosmological spacetimes, with a particular focus on understanding quantum gravity in de Sitter space. This includes building frameworks where cosmological observables are computed from lower-dimensional dual theories, analogous to AdS/CFT, and exploring how such dualities encode physically measurable quantities like correlators and the Wavefunction of the Universe.
+Mentoring & Research Supervision
+---------------------------------
 
-Cauchy Slice Holography
------------------------
-Cauchy Slice Holography is a program aimed at formulating holographic duals defined on spacelike slices in static (e.g Anti-de Sitter space) and cosmological spacetimes (particularly de Sitter spacetime). This approach emphasises wavefunctionals on constant time slices and their relationship to boundary data, seeking a non-perturbative description of bulk quantum gravity. The goal is to understand how bulk dynamics and constraints, such as diffeomorphism invariance and unitarity, are realised holographically.
+Advisor / Mentor — Mentoring Flatiron Intern (Aug. 2024 – Present)  
+**USA & Online**
 
-Cosmological Correlators
-------------------------
-The study of cosmological correlators lies at the intersection of modern field theory and observational cosmology. Cosmological correlators are expectation values of fluctuations (e.g., scalar and tensor modes) that are imprinted in the early universe. By applying tools from effective field theory, scattering amplitudes, and bootstrap techniques, we can extract model-independent signatures of fundamental physics during inflation or other early acceleration phases. These correlators provide powerful probes of unitarity, locality, and symmetry principles at energy scales (> 10^6 TeV) far beyond terrestrial colliders, and connect directly to observables like non-Gaussianities in the Cosmic Microwave Background.
+I supervise undergraduate student [Ezra Msolla](https://www.physics.utoronto.ca/newsletter/interactions-fall-2023/) from an underrepresented background with interests in cosmology. In our joint work, we derived analytical expressions for tensor power spectra in curved inflating universes, developing model-independent templates that isolate curvature effects.
 
+Lumiere Education — Research Project Supervisor (Mar. 2023 – Present)  
+**Online (volunteering and paid work)**
 
-Curvature Tension: Is our universe curved or flat?
---------------------------------------------------
-I am also interested in questions related to the large-scale geometry of the universe, especially in understanding whether spatial curvature is truly zero within observational limits or whether there exist persistent hints of curvature. This includes developing analytical frameworks to treat primordial power spectra in curved backgrounds and assessing theoretical priors for curvature from fundamental physics.
+I have supervised 9 students’ individual research projects on topics including cosmology and Hawking radiation. Many of these students have gone on to be admitted to prestigious universities such as Harvard and Stanford.
 
-_Recent job talk explaining some of these cool concepts_
+UniArk — Co-founder & Mentor (Mar. 2021 – Present)  
+**UK & Online**
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/W384jo2HmIg" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+I co-founded [UniArk](https://www.uniark.org) with the aim of reducing the educational attainment gap for disadvantaged students. I mentor students for Oxbridge and other university admissions at undergraduate, Masters, and PhD levels.
 
-_Summaries of my papers (which are hopefully pedagogical!) can be found below:_
+Teaching & Lecturing
+--------------------
 
-[Analytical approximations for curved primordial tensor spectra](https://arxiv.org/abs/2511.10644)
--------------------------------------------------------------------------------------------------------------------
-In this work, I (with my mentee, Ezra Msolla](https://inspirehep.net/authors/3082749?ui-citation-summary=true)) developed analytical templates for how primordial gravitational waves (tensor perturbations) behave when the early universe had non-zero spatial curvature. These templates do not assume a specific inflation model, so they isolate the universal imprint of curvature on gravitational waves. We show that curvature changes the effective wave modes and leads to distinctive features — such as a modified spectrum at large angular scales and oscillatory behaviour — which could appear in the Cosmic Microwave Background (CMB)’s B-mode polarisation. This gives a way to use gravitational wave signatures to test spatial curvature in the early universe via future CMB observations.
+University of Cambridge — Examples Class Lecturer / Supervisor (Oct. 2020 – Present)  
+**Cambridge, UK**
 
-[Holographic Cosmology at Finite Time](https://arxiv.org/abs/2511.04511)
-------------------------------------------------------------------------
-This paper explores how Cauchy Slice Holography — a holographic description where the dual theory lives on spacelike slices — can work in de Sitter (inflation-like) spacetimes. We show that by deforming a candidate dual field theory with a specific operator (a so-called $T^2$ deformation), you get a boundary theory where time itself emerges as a renormalisation group scale. We compute two-point functions (for scalars and gravitons, as well as their conjugate momenta) in this deformed boundary theory and find exact agreement with wavefunction coefficients computed directly in the bulk spacetime at finite time; we simultaneously address some confusion in the literature regarding holographic renormalisation in comsology and its relevance for obtaining the correct scaling of conjugate momentum correlators. This confirms that the deformation encodes finite-time cosmological dynamics, and sheds light on how holography might capture cosmology without relying on asymptotic boundaries at infinite time.
+I have lectured Part III Examples classes for:
 
-[Kosmic Field Theories: Towards Holographic Duals for Unitary String Cosmologies](https://arxiv.org/abs/2510.21701)
--------------------------------------------------------------------------------------------------------------------
-In this work we proposed a new class of large-$N$ holographic theories, which we call Kosmic Field Theories (KFTs), as potential duals for cosmological spacetimes — including those that arise from string theory. Unlike traditional conformal theories, these allow complex phases in parameters like $N$ and the ’t Hooft coupling in such a way that their correlation functions match the unitarity reality conditions expected of cosmological wavefunctions. Crucially, these phases are not just mathematical artefacts, but are required if the holographic dual is to reproduce physical unitarity in the bulk. This provides a new route to building holographic descriptions of cosmology, where bulk unitarity and reality conditions — central to quantum physics — are respected.
+- Part III Field Theory in Cosmology  
+- Part III Gauge/Gravity Duality  
 
-Recent talk on [arXiv:2510.21701](https://arxiv.org/abs/2510.21701)
+I have supervised (small group teaching) for:
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/oO_sZpqJCLA" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+- Part II General Relativity  
+- Part II Principles of Quantum Mechanics  
+- Part II Galactic Dynamics  
+- Part IB Oscillations, Waves & Optics  
+- Part IB Experimental Methods  
 
-[The Phase of the Cosmological Wavefunction (PhD thesis)](https://doi.org/10.17863/CAM.119586)
---------------------------------------------------------------------------------------
-My thesis studies how fundamental principles like symmetry, unitarity, and locality constrain the wavefunction of the universe and cosmological correlators — particularly in inflationary (nearly de Sitter) spacetimes. The key idea is that these principles are so powerful they not only determine the magnitude of cosmological observables, but also their phase structure, which encodes qualitative features like parity or time-reversal behaviour. I develop both perturbative and non-perturbative tools to extract these constraints, showing that discrete symmetries such as cosmological CPT and bulk unitarity severely restrict the allowed forms of wavefunction coefficients and correlators. The thesis builds analytic understanding of how deep symmetry principles shape observable cosmological fluctuations, tying quantum gravity intuition to inflationary predictions.
+Queen Mary University of London — Outreach Worker (Sep. 2018 – Jan. 2019)  
+**London, UK**
 
-[No-go Theorem for Cosmological Parity Violation](https://arxiv.org/abs/2501.06383)
------------------------------------------------------------------------------------
-This paper uses discrete symmetry constraints — especially those derived from the Cosmological CPT theorem — to show that in even spacetime dimensions, parity-odd cosmological correlators (signals that distinguish left vs right handedness) must vanish if the theory has only massless scalar and even-spin fields and starts in a standard vacuum state. That means many proposed mechanisms for generating parity violation in inflationary observables are forbidden under quite general symmetry plus unitarity assumptions. The result establishes that any detected parity-violating signal in data would be an exceptionally sensitive probe of new physics beyond vanilla inflation. 
+Worked with Prof. Richard Nelson guiding high school students through the physics and programming exercises of [Planet Hunting with Python](https://www.qmul.ac.uk/spcs/engage/outreach/in-school/physics-activities/research-in-schools/our-projects/planet-hunting-with-python/).
 
-Recent talk on [arXiv:2501.06383](https://arxiv.org/abs/2501.06383)
+Private Tutoring — The Profs, Leading Education, VIPTutors, Test Teach, Surrey Tutors (Jul. 2010 – Present)  
+**UK & Online**
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/RHTF1tWfqEw" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+Provided tutoring from primary school up to university Masters level.  
+Delivered interview preparation for Oxbridge and other high-ranking university admissions.
 
-[The Cosmological CPT Theorem](https://arxiv.org/abs/2408.17406)
-----------------------------------------------------------------
-In this paper, I (with Harry Goodhew and Aron Wall) extended the classic CPT theorem of quantum field theory (fundamental in particle physics) to cosmological spacetimes. We show that in expanding universes, the combination of unitarity, scale/boost invariance, and discrete transformations leads to a version of CPT that fixes the phase of all cosmological wavefunction coefficients at late times, without needing ad hoc analytic continuations. This is powerful because the phase of the wavefunction controls subtle features like interference and parity, and plays a central role in holographic dualities. Our result provides a non-perturbative symmetry constraint on cosmological observables — a foundational result for both inflationary cosmology and de Sitter holography. 
+Awards & Recognition
+--------------------
 
-Recent talk on [arXiv:2408.17406](https://arxiv.org/abs/2408.17406)
+Student-Led Teaching Awards (SLTAs) — Shortlisted (Mar. 2022)
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/W7-8bq9va14" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-[On Graviton non-Gaussianities in the Effective Field Theory of Inflation](https://arxiv.org/abs/2209.00677)
-------------------------------------------------------------------------------------------
-In this paper with Giovanni Cabass, David Stefanyszyn, and Jakub Supeł, we systematically classify and compute parity-even three-point functions (bispectra) of gravitons within the Effective Field Theory of Inflation framework. We show that all possible cubic interactions that can contribute to graviton non-Gaussianities come from a small set of operators involving extrinsic curvature and its derivatives. By organising these contributions and using efficient tests like the Manifestly Local Test, we extract analytic forms for the bispectra and identify their physical signatures. This work clarifies which inflationary interactions can produce observable gravitational wave non-Gaussianities and helps connect theory with potential future measurements of tensor modes.
-
-Recent talk on [arXiv:2209.00677](https://arxiv.org/abs/2209.00677)
-
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/O1uojXoKw1U" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-[Analytical approximations for curved primordial power spectra](https://arxiv.org/abs/2009.05573)
------------------------------------------------------------------------------------------------------------------------
-In this paper, I (with Denis Werth and Will Handley) developed analytical expressions for primordial power spectra in inflationary models with spatial curvature. We showed how curvature modifies the scalar perturbation spectrum and provided approximations that match fully numerical calculations. These results help interpret how spatial curvature could leave imprints on large-scale CMB anisotropies, and provide tools to test curvature with observational data. This work also laid groundwork for extensions to tensor modes (see [arXiv:2511.10644](https://arxiv.org/abs/2511.10644)) and connects to debates on whether our universe is exactly flat or slightly curved.
+Shortlisted from amongst over 400 nominations for my teaching across Cambridge University. See the Cambridge SU announcement [here](https://www.cambridgesu.co.uk/news/article/cambridgesu/SLTAs-2022Shortlist-Announced/).
