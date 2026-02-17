@@ -8,7 +8,7 @@ author: ayngaran
 
 *See [iNSPIRE](https://inspirehep.net/authors/2146287?ui-citation-summary=true) or [arXiv](http://arxiv.org/a/thavanesan_a_1) for an up-to-date list of my papers*
 
-*Some current areas of interest are: 
+_Some current areas of interest are:_
 
 Kosmic Field Theories --- Holographic Duals to Cosmological Spacetimes
 ----------------------------------------------------------------------
@@ -29,7 +29,7 @@ I am also interested in questions related to the large-scale geometry of the uni
 
 
 
-*Summaries of my papers (which are hopefully pedagogical!) can be found below:
+_Summaries of my papers (which are hopefully pedagogical!) can be found below:_
 
 [Analytical approximations for curved primordial tensor spectra](https://arxiv.org/abs/2511.10644)
 -------------------------------------------------------------------------------------------------------------------
