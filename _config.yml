@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ayngaran Thavanesan"
 title_separator          : "-"
 name                     : &name "Ayngaran Thavanesan"
-description              : &description "PhD Candidate in Theoretical Cosmology"
+description              : &description "Postdoctoral Research Scientist at EPFL"
 url                      : https://ayngaranthavanesan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayngaranthavanesan/ayngaranthavanesan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ayngaran Thavanesan"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Theoretical Cosmology"
-  location         : "Cambridge, UK"
+  bio              : "Postdoctoral Research Scientist at EPFL"
+  location         : "London/Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -99,11 +99,11 @@ author:
   github           : "ayngaranthavanesan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ayngs_2508"
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-2382-4497"
+  linkedin         : "ayngaran-thavanesan-870818a5"
+  orcid            : "0000-0002-2382-4497"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
