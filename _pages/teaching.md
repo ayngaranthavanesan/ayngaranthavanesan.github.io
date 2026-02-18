@@ -24,7 +24,7 @@ I have supervised 9 students’ individual research projects on topics including
 UniArk — Co-founder & Mentor (Mar. 2021 – Present)  
 **UK & Online**
 
-I co-founded [UniArk](https://www.uniark.org) with the aim of reducing the educational attainment gap for disadvantaged students. I mentor students for Oxbridge and other university admissions at undergraduate, Masters, and PhD levels.
+I co-founded [UniArk](https://www.uniark.org) with the aim of reducing the educational attainment gap for disadvantaged students. I mentor students for Oxbridge and other university admissions at undergraduate, master's, and PhD levels.
 
 Teaching & Lecturing
 --------------------
