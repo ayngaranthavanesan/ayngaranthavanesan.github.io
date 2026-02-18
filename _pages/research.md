@@ -27,7 +27,7 @@ Curvature Tension: Is our universe curved or flat?
 --------------------------------------------------
 I am also interested in questions related to the large-scale geometry of the universe, especially in understanding whether spatial curvature is truly zero within observational limits or whether there exist persistent hints of curvature. This includes developing analytical frameworks to treat primordial power spectra in curved backgrounds and assessing theoretical priors for curvature from fundamental physics.
 
-_Recent job talk explaining some of these cool concepts_
+_Recent job talk explaining some of these cool concepts!_
 
 <iframe 
   width="560" 
