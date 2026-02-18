@@ -14,7 +14,7 @@ Mentoring & Research Supervision
 Advisor / Mentor — Mentoring Flatiron Intern (Aug. 2024 – Present)  
 **USA & Online**
 
-I supervise undergraduate student [Ezra Msolla](https://www.physics.utoronto.ca/newsletter/interactions-fall-2023/) from an underrepresented background with interests in cosmology. In our joint work, we derived analytical expressions for tensor power spectra in curved inflating universes, developing model-independent templates that isolate curvature effects.
+I supervise undergraduate student [Ezra Msolla](https://www.physics.utoronto.ca/newsletter/interactions-fall-2023/) from an underrepresented background with interests in cosmology. In [our joint work](https://arxiv.org/abs/2511.10644), we derived analytical expressions for tensor power spectra in curved inflating universes, developing model-independent templates that isolate curvature effects.
 
 Lumiere Education — Research Project Supervisor (Mar. 2023 – Present)  
 **Online (volunteering and paid work)**
@@ -48,12 +48,12 @@ I have supervised (small group teaching) for:
 Queen Mary University of London — Outreach Worker (Sep. 2018 – Jan. 2019)  
 **London, UK**
 
-Worked with Prof. Richard Nelson guiding high school students through the physics and programming exercises of [Planet Hunting with Python](https://www.qmul.ac.uk/spcs/engage/outreach/in-school/physics-activities/research-in-schools/our-projects/planet-hunting-with-python/).
+Worked with Prof. Richard Nelson, guiding high school students through the physics and programming exercises of [Planet Hunting with Python](https://www.qmul.ac.uk/spcs/engage/outreach/in-school/physics-activities/research-in-schools/our-projects/planet-hunting-with-python/).
 
 Private Tutoring — The Profs, Leading Education, VIPTutors, Test Teach, Surrey Tutors (Jul. 2010 – Present)  
 **UK & Online**
 
-Provided tutoring from primary school up to university Masters level.  
+Provided tutoring from primary school up to university Master's level.  
 Delivered interview preparation for Oxbridge and other high-ranking university admissions.
 
 Awards & Recognition
