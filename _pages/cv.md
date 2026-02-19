@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-A (hopefully) recent version of my CV can be found [here (last updated February 2026)](http://ayngaranthavanesan.github.io/files/Academic_CV_Short.pdf).
+A (hopefully) recent version of my CV can be found [here](http://ayngaranthavanesan.github.io/files/Academic_CV_Short.pdf) (last updated February 2026).
 
-A (hopefully) recent version of my list of publications can be found [here (last updated February 2026)](http://ayngaranthavanesan.github.io/files/Publication_List.pdf).
+A (hopefully) recent version of my list of publications can be found [here](http://ayngaranthavanesan.github.io/files/Publication_List.pdf) (last updated February 2026).
 
 <!-- ---
 layout: archive
