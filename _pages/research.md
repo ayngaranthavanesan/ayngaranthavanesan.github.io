@@ -109,7 +109,7 @@ together imply a cosmological version of CPT that *fixes the phase of all late-t
 
 This result is powerful because the phase of the wavefunction controls subtle effects such as [parity properties](https://arxiv.org/abs/2501.06383) and [holographic duals to cosmological spacetimes](https://arxiv.org/abs/2510.21701). The converse statement of the Cosmological CPT Theorem also reveals how **bulk unitarity manifests in cosmological spacetimes** — a longstanding question in de Sitter holography and holographic cosmology
 
-> How does bulk unitarity manifest itself in the non-reflection positive holographic boundary theory, where the dual theory lacks an intrinsic notion of time and time is an emergent dimension? (See e.g. end of Section 6 of [arXiv:2503.12771](https://arxiv.org/abs/1204.1057) by [Gim Seng Ng](https://inspirehep.net/authors/1072340?ui-citation-summary=true) and [Andrew Strominger](https://en.wikipedia.org/wiki/Andrew_Strominger).)
+> How does bulk unitarity manifest itself in the non-reflection positive holographic boundary theory, where the dual theory lacks an intrinsic notion of time and time is an emergent dimension? (See e.g. end of Section 6 of [arXiv:1204.1057](https://arxiv.org/abs/1204.1057) by [Gim Seng Ng](https://inspirehep.net/authors/1072340?ui-citation-summary=true) and [Andrew Strominger](https://en.wikipedia.org/wiki/Andrew_Strominger).)
 
 In particular, we obtain a **non-perturbative bulk unitarity constraint on the Wavefunction of the Universe**, providing a foundational result for both inflationary cosmology and de Sitter holography. This work therefore connects deep structural aspects of quantum field theory to the fundamental physics of the early universe.
 
