@@ -87,7 +87,27 @@ Recent talk on [arXiv:2501.06383](https://arxiv.org/abs/2501.06383)
 
 [The Cosmological CPT Theorem](https://arxiv.org/abs/2408.17406)
 ----------------------------------------------------------------
-In this paper, I (with [Harry Goodhew](https://inspirehep.net/authors/1898657?ui-citation-summary=true) and [Aron Wall](https://www.wall.org/~aron/)) extended the classic CPT theorem of quantum field theory (fundamental in particle physics) to cosmological spacetimes. We show that in expanding universes, the combination of unitarity, scale/boost invariance, and discrete transformations leads to a version of CPT that fixes the phase of all cosmological wavefunction coefficients at late times, without needing ad hoc analytic continuations. This is powerful because the phase of the wavefunction controls subtle features like interference and parity, and plays a central role in holographic dualities. Our result provides a non-perturbative symmetry constraint on cosmological observables — a foundational result for both inflationary cosmology and de Sitter holography. 
+In this paper, written with [Harry Goodhew](https://inspirehep.net/authors/1898657?ui-citation-summary=true) and [Aron Wall](https://www.wall.org/~aron/), we rederived the classic CPT theorem of quantum field theory — a foundational result in particle physics — in a way that allows for precise converse statements and a natural extension to cosmological spacetimes.
+
+We showed that the usual CPT symmetry can be understood as emerging from three distinct ℤ₂ × ℤ₂ symmetries. Two of the nontrivial elements are:
+
+- **Reflection Reality**, implied by unitarity, specifically any theory with an indefinite (not necessarily positive) norm.
+- A **180-degree rotation**, implied by Lorentz invariance.
+
+The third symmetry is **CRT**, which resolves a longstanding conceptual puzzle:
+
+> How can CRT be antiunitary in Lorentzian signature while the 180-degree rotation is a linear symmetry?
+
+The answer is that **Reflection Reality is antiunitary**, and when combined with the 180-degree rotation, it produces CRT. Similar logic applies to the other symmetry combinations. This clarifies the structural origin of CPT in a precise and group-theoretic way.
+
+We then extended this structure to expanding cosmological spacetimes. In that setting, we showed that:
+
+- **Reflection Reality**, implied by **BULK Unitarity**, specifically any theory where the bulk inner product has an indefinite (not necessarily positive) norm.
+- A **180-degree rotation**, implied by **Scale/boost invariance**.
+
+together imply a cosmological version of CPT that *fixes the phase of all late-time cosmological wavefunction coefficients*, without requiring ad hoc analytic continuations.
+
+This result is powerful because the phase of the wavefunction controls subtle effects such as [parity properties](https://arxiv.org/abs/2501.06383) and [holographic duals to cosmological spacetimes](https://arxiv.org/abs/2510.21701). The converse statement of the Cosmological CPT Theorem also reveals how **bulk unitarity manifests in cosmological spacetimes** — a longstanding question in de Sitter holography and holographic cosmology, where the dual theory lacks an intrinsic notion of time and time is an emergent dimension. In particular, we obtain a **non-perturbative bulk unitarity constraint on the Wavefunction of the Universe**, providing a foundational result for both inflationary cosmology and de Sitter holography. This work therefore connects deep structural aspects of quantum field theory to the fundamental physics of the early universe.
 
 Recent talk on [arXiv:2408.17406](https://arxiv.org/abs/2408.17406)
 
