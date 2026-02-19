@@ -96,7 +96,7 @@ We showed that the usual CPT symmetry can be understood as emerging from three d
 
 The third symmetry is **CRT**, which resolves a longstanding conceptual puzzle:
 
-> How can CRT be antiunitary in Lorentzian signature while the 180-degree rotation is a linear symmetry?
+> How can CRT be antiunitary in Lorentzian signature while the 180-degree rotation is a linear symmetry? (See e.g. Appendix C of [arXiv:2503.12771](https://arxiv.org/abs/2503.12771) by [Edward Witten](https://en.wikipedia.org/wiki/Edward_Witten).)
 
 The answer is that **Reflection Reality is antiunitary**, and when combined with the 180-degree rotation, it produces CRT. Similar logic applies to the other symmetry combinations. This clarifies the structural origin of CPT in a precise and group-theoretic way.
 
@@ -107,7 +107,11 @@ We then extended this structure to expanding cosmological spacetimes. In that se
 
 together imply a cosmological version of CPT that *fixes the phase of all late-time cosmological wavefunction coefficients*, without requiring ad hoc analytic continuations.
 
-This result is powerful because the phase of the wavefunction controls subtle effects such as [parity properties](https://arxiv.org/abs/2501.06383) and [holographic duals to cosmological spacetimes](https://arxiv.org/abs/2510.21701). The converse statement of the Cosmological CPT Theorem also reveals how **bulk unitarity manifests in cosmological spacetimes** — a longstanding question in de Sitter holography and holographic cosmology, where the dual theory lacks an intrinsic notion of time and time is an emergent dimension. In particular, we obtain a **non-perturbative bulk unitarity constraint on the Wavefunction of the Universe**, providing a foundational result for both inflationary cosmology and de Sitter holography. This work therefore connects deep structural aspects of quantum field theory to the fundamental physics of the early universe.
+This result is powerful because the phase of the wavefunction controls subtle effects such as [parity properties](https://arxiv.org/abs/2501.06383) and [holographic duals to cosmological spacetimes](https://arxiv.org/abs/2510.21701). The converse statement of the Cosmological CPT Theorem also reveals how **bulk unitarity manifests in cosmological spacetimes** — a longstanding question in de Sitter holography and holographic cosmology
+
+> How does bulk unitarity manifest itself in the non-reflection positive holographic boundary theory, where the dual theory lacks an intrinsic notion of time and time is an emergent dimension? (See e.g. end of Section 6 of [arXiv:2503.12771](https://arxiv.org/abs/1204.1057) by [Gim Seng Ng](https://inspirehep.net/authors/1072340?ui-citation-summary=true) and [Andrew Strominger](https://en.wikipedia.org/wiki/Andrew_Strominger).)
+
+In particular, we obtain a **non-perturbative bulk unitarity constraint on the Wavefunction of the Universe**, providing a foundational result for both inflationary cosmology and de Sitter holography. This work therefore connects deep structural aspects of quantum field theory to the fundamental physics of the early universe.
 
 Recent talk on [arXiv:2408.17406](https://arxiv.org/abs/2408.17406)
 
