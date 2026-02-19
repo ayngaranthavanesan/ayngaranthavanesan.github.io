@@ -12,6 +12,8 @@ redirect_from:
 
 A (hopefully) recent version of my CV can be found [here (last updated February 2026)](http://ayngaranthavanesan.github.io/files/Academic_CV_Short.pdf).
 
+A (hopefully) recent version of my list of publications can be found [here (last updated February 2026)](http://ayngaranthavanesan.github.io/files/Publication_List.pdf).
+
 <!-- ---
 layout: archive
 title: "CV"
