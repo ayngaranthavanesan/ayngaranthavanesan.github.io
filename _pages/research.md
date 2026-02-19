@@ -6,7 +6,7 @@ author_profile: true
 author: ayngaran
 ---
 
-*See [iNSPIRE](https://inspirehep.net/authors/2146287?ui-citation-summary=true) or [arXiv](http://arxiv.org/a/thavanesan_a_1) for an up-to-date list of my papers*
+*See [iNSPIRE](https://inspirehep.net/authors/2146287?ui-citation-summary=true) or [arXiv](https://arxiv.org/a/thavanesan_a_1) for an up-to-date list of my papers*
 
 _Some current areas of interest are:_
 
