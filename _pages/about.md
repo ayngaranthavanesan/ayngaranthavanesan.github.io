@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Dr. Ayngaran Thavanesan"
-excerpt: "This is the website of Ayngaran Thavanesan, currently Postdoctoral Research Scientist at EPFL"
+excerpt: "This is the website of Ayngaran Thavanesan, currently Leverhulme Trust Early Career Fellow at the University of Hertfordshire"
 author_profile: true
 author: ayngaran
 redirect_from:
